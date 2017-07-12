@@ -21,3 +21,7 @@
 ---------------------------------------------------------------------------------------------
   Copyrights by Cloud_kim. Please Contact me.
   If you want to use my code contact me at kgo0748@gmail.com
+
+  ※현재 데이터베이스에 접근할 수 없게 IP주소와 여타 정보를 지워서 안보일 수 있습니다.
+    개인 IP주소여서 지워놨습니다. 결과물 화면을 원하시면 kgo0748@gmail.com로
+    메일 주시기 바랍니다.
